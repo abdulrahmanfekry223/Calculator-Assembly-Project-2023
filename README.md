@@ -7,6 +7,9 @@ Project for Assembly Language Course, Third Year (CS Department) Computer Scienc
 Program supports basic math functions of two numbers like:
 
 1- Addition
+
 2- Subtraction
+
 3- Multiplication
+
 4- Division 
